@@ -1,1 +1,3 @@
 # Code_Alpha_Network_Intrusion_Detection_System_-IDS-
+# This project focused on setting up and configuring an IDS using Snort or Suricata on a Windows machine. Custom rules were created to detect threats like port scans and DDoS attacks. Simulated attacks were performed using tools like Nmap and hping3 to test the system’s effectiveness. Logs and alerts were analyzed, and optional visualization with ELK Stack provided deeper insights. Deliverables included configuration files, logs, and a detailed report.
+# In conclusion, this project enhanced practical skills in network threat detection and response, emphasizing the critical role of IDS in maintaining network security.
